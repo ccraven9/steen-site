@@ -1,0 +1,11 @@
+.content-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.headshot-container{
+    width: 50%;
+    /* border-style: solid; */
+    height: auto;
+    padding: 5%;
+}

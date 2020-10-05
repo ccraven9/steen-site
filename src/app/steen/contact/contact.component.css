@@ -1,0 +1,49 @@
+.contact-container {
+    display: flex;
+    border-style: solid;
+    justify-content: center;
+}
+
+.center-content{
+    display: flex;
+    justify-content: center;
+}
+
+.con-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.size-div{
+    width: 33%;
+    border-style: solid;
+    padding: 5%;
+}
+
+.contact-head {
+    width: 50%;
+    /* border-style: solid; */
+    text-align: center;
+    padding-top: 10%;
+    font-family: 'lemon_milk', 'arial', sans-serif;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px grey;
+}
+
+.conent {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.contact-card {
+    width: 50%;
+    /* border-style: solid; */
+}
+
+.card-content {
+ padding: 20%;
+}

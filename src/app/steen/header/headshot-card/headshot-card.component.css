@@ -1,0 +1,10 @@
+.headshot-image{
+    width: 100%;
+    /* border-radius: 20px; */
+    border: 3px solid lightgray;
+    height: auto;
+    -webkit-box-shadow: 0px 11px 24px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 11px 24px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 11px 24px -6px rgba(0,0,0,0.75);
+    filter: grayscale(20%);
+}
